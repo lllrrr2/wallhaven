@@ -26,12 +26,13 @@
 </p>
 
 ## ！！通知！！
-### wallhaven.cc网站已经完全被墙了，请大家更新4.4.4版本使用
+### wallhaven.cc网站已经完全被墙了，请大家更新最新版本使用
 ### 如果大家自己有梯子的，请结合梯子使用，作者自己的服务器顶不住太多流量
 
 ## 快速上手 🤗
 #### 直接使用打包好的程序
 - [阿里网盘](https://www.aliyundrive.com/s/Jy3dWEDUcyi)
+- [蓝奏云密码6666](https://leofitz.lanzoue.com/b03llnu7g)
 - [Release](https://github.com/leoFitz1024/wallhaven/releases/latest)
 
 #### 通过本地构建
@@ -86,6 +87,7 @@ npm install
   - 在线/本地 定时切换壁纸（顺序、随机）✅
   - 下载任务管理 ✅
   - 支持MAC ✅
+  - 动态壁纸 ✅
 
 - 未实现功能
   - 支持在线收藏夹功能 ❎
